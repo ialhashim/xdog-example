@@ -5,3 +5,5 @@ Simple driver for the extended DoG operator. Compiled library from https://code.
 
 Compiled with Cuda 6.0, Visual Studio 2012 x64, Qt 5
 
+###What it looks like
+<img src="sketcher/data/screenshot.png" alt="GUI"/>
